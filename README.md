@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Fabel Sirpe  
-**MSc in Finance (UQAM) · Quantitative Finance · Risk & Econometrics**
+**MSc in Applied Finance (UQAM) · Quantitative Finance · Risk & Econometrics**
 
 Bienvenue sur mon GitHub.  
 Je travaille surtout sur :
