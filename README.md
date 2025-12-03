@@ -11,7 +11,7 @@ Je travaille surtout sur :
 
 ---
 
-## 📘 1. Academic Finance Projects
+## 1. Academic Finance Projects
 
 ### FIN8622 – Risk Analysis  
 Analyse des risques de marché :
@@ -68,7 +68,7 @@ Projet d’économétrie appliquée :
 
 ---
 
-## 💼 2. Tolgo FinTech Analytics
+## 2. Tolgo FinTech Analytics
 
 ### Tolgo-Forecasting  
 - Prévisions de revenus et volumes transactionnels  
@@ -94,7 +94,7 @@ Projet d’économétrie appliquée :
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **MATLAB** – Modélisation financière, séries temporelles, GARCH, options  
 - **Python** – Analytics & prototypage de modèles  
@@ -103,7 +103,7 @@ Projet d’économétrie appliquée :
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **LinkedIn** : *https://www.linkedin.com/in/fabel-sirpe-m-sc-0275421b3/*
-- **Email** : *fabelsirpe16@gmail.com)*
+- **Email** : *fabelsirpe16@gmail.com*
