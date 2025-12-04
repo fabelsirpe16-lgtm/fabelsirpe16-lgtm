@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Fabel Sirpe  
 **MSc in Applied Finance (UQAM) · Quantitative Finance · Risk & Econometrics**
-Finance & Risk Analyst | Data-Driven | Python, MATLAB, Econometrics, Portfolio Analytics, Derivatives Modeling
 
 **Fr/eng**
 
